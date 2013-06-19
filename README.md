@@ -1,4 +1,4 @@
 Earth-Simulation
 ================
 
-OPENGL graphic earth simulation
+OPENGL graphic earth year 2004 simulation
