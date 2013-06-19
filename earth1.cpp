@@ -1,4 +1,5 @@
-/* modify by NG WING KIN , OUHK , 26 JAN 2012 */
+/*  OPENGL graphic simulation , Earth Year 2004
+modify by NG WING KIN , OUHK , 26 JAN 2012 */
 #include <cstdlib> 
 #include <cstdio>
 #include <GL/glut.h>
